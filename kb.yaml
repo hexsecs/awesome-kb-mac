@@ -1,0 +1,30 @@
+{
+  "openshelf": "1.7",
+  "id": "awesome-kb-mac",
+  "uid": "ab9ceba1-bacf-41a3-be6d-d4c198ede3a8",
+  "title": "Mac (Awesome KB)",
+  "description": "Resource knowledge base ingested from jaywcjlove/awesome-mac, preserving the canonical list's categories and descriptions.",
+  "profile": "awesome",
+  "version": "2026.11.04",
+  "license": "CC-BY-4.0",
+  "maintainers": [
+    "hexsecs"
+  ],
+  "tags": [
+    "mac",
+    "awesome"
+  ],
+  "layout": {
+    "pages": "wiki",
+    "index": "index.md",
+    "sources": "raw",
+    "schema": "AGENTS.md",
+    "log": "log.md",
+    "checksums": "raw/MANIFEST.sha256"
+  },
+  "x-ingest": {
+    "source": "github:jaywcjlove/awesome-mac",
+    "file": "README.md",
+    "tool": "tools/ingest.py"
+  }
+}

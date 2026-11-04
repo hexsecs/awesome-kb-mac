@@ -1,0 +1,66 @@
+# Mac (Awesome KB)
+
+Resource knowledge base ingested from jaywcjlove/awesome-mac, preserving the canonical list's categories and descriptions.
+
+## Categories
+
+- [Reading and Writing Tools / Text Editors](wiki/index-reading-and-writing-tools-text-editors.md) — 27 entries
+- [Developer Tools / IDEs](wiki/index-developer-tools-ides.md) — 35 entries
+- [Reading and Writing Tools / Office](wiki/index-reading-and-writing-tools-office.md) — 8 entries
+- [Reading and Writing Tools / Markdown Tools](wiki/index-reading-and-writing-tools-markdown-tools.md) — 22 entries
+- [Reading and Writing Tools / Note-taking](wiki/index-reading-and-writing-tools-note-taking.md) — 42 entries
+- [Reading and Writing Tools / Journaling](wiki/index-reading-and-writing-tools-journaling.md) — 4 entries
+- [Reading and Writing Tools / Writing](wiki/index-reading-and-writing-tools-writing.md) — 5 entries
+- [Reading and Writing Tools / Ebooks](wiki/index-reading-and-writing-tools-ebooks.md) — 14 entries
+- [Reading and Writing Tools / RSS](wiki/index-reading-and-writing-tools-rss.md) — 12 entries
+- [Reading and Writing Tools / Others](wiki/index-reading-and-writing-tools-others.md) — 26 entries
+- [Developer Tools / Developer Utilities](wiki/index-developer-tools-developer-utilities.md) — 87 entries
+- [Developer Tools / Regular Expression Editors](wiki/index-developer-tools-regular-expression-editors.md) — 4 entries
+- [Developer Tools / API Development and Analysis](wiki/index-developer-tools-api-development-and-analysis.md) — 17 entries
+- [Developer Tools / Network Analysis](wiki/index-developer-tools-network-analysis.md) — 12 entries
+- [Developer Tools / Frameworks For Hybrid Applications](wiki/index-developer-tools-frameworks-for-hybrid-applications.md) — 15 entries
+- [Developer Tools / Version Control](wiki/index-developer-tools-version-control.md) — 22 entries
+- [Developer Tools / Virtualization](wiki/index-developer-tools-virtualization.md) — 21 entries
+- [Utilities / Menu Bar Tools](wiki/index-utilities-menu-bar-tools.md) — 104 entries
+- [Utilities / Quality of Life Improvements](wiki/index-utilities-quality-of-life-improvements.md) — 17 entries
+- [Developer Tools / Databases](wiki/index-developer-tools-databases.md) — 43 entries
+- [Terminal Apps](wiki/index-terminal-apps.md) — 22 entries
+- [Design and Product / Design Tools](wiki/index-design-and-product-design-tools.md) — 46 entries
+- [Design and Product / Prototyping and Mind-Mapping Tools](wiki/index-design-and-product-prototyping-and-mind-mapping-tools.md) — 24 entries
+- [Design and Product / Screenshot Tools](wiki/index-design-and-product-screenshot-tools.md) — 22 entries
+- [Cloud Storage](wiki/index-cloud-storage.md) — 7 entries
+- [Design and Product / Screen Recording](wiki/index-design-and-product-screen-recording.md) — 23 entries
+- [Design and Product / Other Tools](wiki/index-design-and-product-other-tools.md) — 43 entries
+- [AI Tools](wiki/index-ai-tools.md) — 68 entries
+- [Communication / Collaboration and Team Tools](wiki/index-communication-collaboration-and-team-tools.md) — 34 entries
+- [Communication / Email Clients](wiki/index-communication-email-clients.md) — 15 entries
+- [Communication / File Sharing](wiki/index-communication-file-sharing.md) — 9 entries
+- [Data Recovery Tools](wiki/index-data-recovery-tools.md) — 5 entries
+- [Audio and Video Tools](wiki/index-audio-and-video-tools.md) — 89 entries
+- [Audio and Video Tools / Audio Record and Process](wiki/index-audio-and-video-tools-audio-record-and-process.md) — 17 entries
+- [Download Management Tools](wiki/index-download-management-tools.md) — 20 entries
+- [Input Methods](wiki/index-input-methods.md) — 11 entries
+- [Voice-to-Text](wiki/index-voice-to-text.md) — 25 entries
+- [Browsers](wiki/index-browsers.md) — 25 entries
+- [Translation Tools](wiki/index-translation-tools.md) — 15 entries
+- [Education](wiki/index-education.md) — 2 entries
+- [Finance](wiki/index-finance.md) — 8 entries
+- [Encryption](wiki/index-encryption.md) — 2 entries
+- [Security Tools](wiki/index-security-tools.md) — 29 entries
+- [Proxy and VPN Tools](wiki/index-proxy-and-vpn-tools.md) — 23 entries
+- [Utilities](wiki/index-utilities.md) — 5 entries
+- [Utilities / Clipboard Tools](wiki/index-utilities-clipboard-tools.md) — 33 entries
+- [Utilities / Cleanup and Uninstall](wiki/index-utilities-cleanup-and-uninstall.md) — 36 entries
+- [Utilities / File Organization Tools](wiki/index-utilities-file-organization-tools.md) — 17 entries
+- [Utilities / General Tools](wiki/index-utilities-general-tools.md) — 39 entries
+- [Utilities / To-Do Lists](wiki/index-utilities-to-do-lists.md) — 17 entries
+- [Utilities / Productivity](wiki/index-utilities-productivity.md) — 83 entries
+- [Utilities / Window Management](wiki/index-utilities-window-management.md) — 47 entries
+- [Utilities / Password Management](wiki/index-utilities-password-management.md) — 14 entries
+- [Utilities / Finder Tools](wiki/index-utilities-finder-tools.md) — 17 entries
+- [Utilities / System Related Tools](wiki/index-utilities-system-related-tools.md) — 55 entries
+- [Gaming Software](wiki/index-gaming-software.md) — 14 entries
+- [Remote Login Software](wiki/index-remote-login-software.md) — 14 entries
+- [QuickLook Plugins](wiki/index-quicklook-plugins.md) — 9 entries
+- [Third Party App Markets / Package Managers](wiki/index-third-party-app-markets-package-managers.md) — 5 entries
+- [Mac App Download Sites / Genuine Sites](wiki/index-mac-app-download-sites-genuine-sites.md) — 6 entries

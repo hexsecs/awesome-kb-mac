@@ -1,0 +1,96 @@
+---
+type: index
+title: "Audio and Video Tools"
+---
+
+# Audio and Video Tools
+
+- [Adapter](adapter.md) — Free audio, video and image conversion software.
+- [Aegisub](aegisub.md) — Open-source subtitle editor with timing and styling tools.
+- [Audio Profile Manager](audio-profile-manager.md) — Audio device manager for saving input and output setups.
+- [Ardour](ardour.md) — Cross-platform audio software for multi-track recording and editing.
+- [Audacity](audacity.md) — Free, open-source, cross-platform audio software for multi-track recording and editing.
+- [Audio Hijack](audio-hijack.md) — Record any application's audio, including VoIP calls from Skype, web streams from Safari, and much more.
+- [AudioSync](audiosync.md) — Play your Mac's audio on AirPlay, Google Cast and local speakers at once, in sync.
+- [BeMyEars](bemyears.md) — Live captioning tool with on-device transcription and multilingual support.
+- [BlackHole](blackhole.md) — Freemium, open-source virtual output/input audio driver for recording/routing internal audio.
+- [Camera Preview](camera-preview.md) — Preview your webcam, take photos, and use it as a mirror.
+- [Carol](carol.md) — A minimal and beautiful lyrics app for macOS.
+- [Cog](cog.md) — Free, open-source audio player.
+- [DaVinci Resolve](davinci-resolve.md) — Free, cross-platform video editing, color grading, video effects and audio editing software.
+- [Elmedia Player](elmedia-player.md) — Media player with broad audio and video format support.
+- [Fader](fader.md) — Menu bar volume mixer with per-app volume, one-click output switching, and Bluetooth headphone control.
+- [FineTune](finetune.md) — Per-app volume controller with multi-device output and 10-band EQ.
+- [FreeTube](freetube.md) — Open source desktop YouTube client built with privacy in mind.
+- [Gifski](gifski.md) — Convert videos to high-quality GIFs.
+- [HandBrake](handbrake.md) — Video transcoder for converting media to modern formats.
+- [Hertzwise](hertzwise.md) — Menu bar app that switches the DAC's sample rate to match each Apple Music or Tidal track, so lossless plays bit-perfect, with a per-device AutoEq headphone EQ.
+- [Hongguo Drama](hongguo-drama.md) — Unofficial player and downloader for Chinese short dramas from Hongguo, Xifan, and Hema, for Apple Silicon and Intel Macs.
+- [Hydrogen](hydrogen.md) — Professional yet simple and intuitive pattern-based drum programming for GNU/Linux.
+- [ffWorks](ffworks.md) — Comprehensive Media Tool for macOS. Making High Quality Video Encoding Accessible for Everyone.
+- [IINA](iina.md) — The modern video player for macOS. Based on mpv, the powerful media player project.
+- [IPTVMac](iptvmac.md) — Native IPTV player for Xtream Codes and M3U with instant search, mpv playback, Picture in Picture and downloads.
+- [Jellyfin](jellyfin.md) — The Free Software Media System.
+- [Kaset](kaset.md) — Native YouTube Music client for macOS.
+- [Kaset](kaset.md) — Open-source YouTube Music client with library, lyrics, podcasts, and playback controls.
+- [Kodi](kodi.md) — Open-source media center for video, music, pictures, and more.
+- [LMMS](lmms.md) — Open-source digital audio workstation for music production.
+- [LosslessCut](losslesscut.md) — Cross platform tool for quick and lossless video and audio trimming using ffmpeg.
+- [LyricGlow](lyricglow.md) — Synced lyrics player with word-by-word glow effects.
+- [LyricsX](lyricsx.md) — Lyrics for iTunes, Spotify and Vox.
+- [Lyrimuse](lyrimuse.md) — Word-synced desktop lyrics for Apple Music, Spotify, QQ Music, NetEase Cloud Music, Kugou and YouTube Music / Spotify Web in the browser.
+- [Mac TV](mac-tv.md) — Open-source Apple TV-style home screen for streaming apps, with a phone remote and a local movie player.
+- [MacMusicPlayer](macmusicplayer.md) — A clean, lightweight music player for macOS users.
+- [MacYTDL](macytdl.md) — A macOS GUI front-end for the youtube-dl video downloader.
+- [Marker Data](marker-data.md) — The avant-garde Marker extraction application crafted for Final Cut Pro.
+- [Metadatics](metadatics.md) — Advanced Audio Metadata Editor.
+- [Mp3tag](mp3tag.md) — A powerful and easy-to-use tool to edit metadata of audio files.
+- [Mixxx](mixxx.md) — The most advanced free DJ software.
+- [Movie Catcher](movie-catcher.md) — Tool for finding, streaming, and offline downloading movies.
+- [MP4Flow](mp4flow.md) — Native FFmpeg front end for batch video-to-MP4 conversion, trimming, cropping, rotating, and merging.
+- [mpv](mpv.md) — Free, open-source, and cross-platform media player.
+- [Mooziac](mooziac.md) — Lightweight native macOS menu bar player for YouTube Music & local audio.
+- [MuseScore](musescore.md) — Free, open-source music notation software.
+- [Museeks](museeks.md) — A simple, clean and cross-platform music player.
+- [Muxie](muxie.md) — Last.fm scrobbler for Apple Music, Spotify Desktop, iPod Classic, Rockbox devices and some others.
+- [Natron](natron.md) — Open-source node-based compositing software.
+- [NotchMuse](notchmuse.md) — Open-source synced lyrics for Spotify, Apple Music, NetEase Cloud Music, QQ Music and Soda Music in the menu bar, beside the notch, or above the Dock.
+- [Nuclear](nuclear.md) — Streaming music player that finds free music for you.
+- [OpenSpatial](openspatial.md) — Open-source spatial audio for any headphones, playing every app as 7.1 surround with head tracking.
+- [Perian](perian.md) — (No longer under active development) ~~Let QuickTime play all the common formats of free plug-ins~~.
+- [MusicBrainz Picard](musicbrainz-picard.md) — Cross-platform music tagger written in Python.
+- [MyMedia](mymedia.md) — Display and watch your local movie and TV show library.
+- [Playback](playback.md) — Experimental video player.
+- [Plug](plug.md) — Discover and listen to music from Hype Machine.
+- [Petrichor](petrichor.md) — Offline music player with broad format support, lyrics, playlists, and queue management.
+- [Popcorn Time](popcorn-time.md) — Streaming app for browsing and watching torrent-based movies.
+- [Potplayer X](potplayer-x.md) — a Video Audio Player.
+- [Pulp](pulp.md) — Audio sample manager.
+- [RAVE LIVE](rave-live.md) — Festival light show that locks to the beat of whatever your Mac is playing, with stage lights, lasers and MilkDrop presets.
+- [Sangeet](sangeet.md) — A beautiful audiophile music player with 10-band EQ, karaoke mode, and time-synced lyrics.
+- [ScreenFlow](screenflow.md) — Screencasting and video editing software.
+- [Shotcut](shotcut.md) — Free open-source video editor.
+- [ShotMap](shotmap.md) — Turn videos into storyboard images with smart frame selection, manual refinement, and local PNG/JPG export.
+- [Sonar](sonar.md) — Native music player with synchronized lyrics and menu bar and notch playback controls.
+- [Songtide](songtide.md) — Native YouTube Music app with an equalizer, visualizer and synced lyrics.
+- [SoundCloud for macOS](soundcloud-for-macos.md) — Unofficial lightweight SoundCloud app for macOS.
+- [Spotifly](spotifly.md) — Lightweight Spotify player focused on fast playback control.
+- [SpotMenu](spotmenu.md) — Spotify and iTunes in your menu bar.
+- [Stremio](stremio.md) — Media center for movies, TV, live channels, and streaming sources.
+- [Stringed 2](stringed-2.md) — Music practice software designed to help users learn how to play their favorite songs.
+- [Synfig Studio](synfig-studio.md) — Synfig Studio is free, open-source 2D animation software.
+- [TetherCam](tethercam.md) — Use an iPhone as a USB camera on a Mac for video only, or use the OBS plugin for video and the phone's microphone audio.
+- [trax](trax.md) — Music library manager with audio conversion and tag editing.
+- [Tiny Player](tiny-player.md) — As the name suggests, a tiny player.
+- [Tuneful](tuneful.md) — Controller for Spotify and Apple Music from the menu bar or mini player.
+- [VLC](vlc.md) — Open-source multimedia player for most audio, video, and streaming formats.
+- [VOX Player](vox-player.md) — High-definition audio player for Mac and iPhone. Music just sounds better!
+- [VidCrop](vidcrop.md) — A simple video cropping tool that supports multiple formats and precise trimming.
+- [XLD](xld.md) — Tool to decode, convert and play various 'lossless' audio files.
+- [Recordia](recordia.md) — Record audio directly from the menu bar or with a global keyboard shortcut.
+- [Omniplayer](omniplayer.md) — Best media player on Mac, support almost all format.
+- [YouTube Music](youtube-music.md) — Desktop player for YouTube Music with plugin support.
+- [YouTube Music Desktop](youtube-music-desktop.md) — Free cross platform Desktop Player for YouTube Music.
+- [YPlayer](yplayer.md) — A multifunctional app for live captions, audio/video transcription, and subtitle translation.
+- [Musicer](musicer.md) — A retro local music player that supports multiple formats and AI control.
+- [Fmusic](fmusic.md) — A fmusic is a open source music player on SwiftUI.

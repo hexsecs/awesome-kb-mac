@@ -1,0 +1,38 @@
+---
+{
+  "title": "Docker",
+  "summary": "Powerful, performs operating-system-level virtualization.",
+  "type": "entity",
+  "category": "Developer Tools / Virtualization",
+  "url": "https://www.docker.com/",
+  "list_summary": "Powerful, performs operating-system-level virtualization. [![Open-Source Software][OSS Icon]](https://github.com/docker) ![Freeware][Freeware Icon] [![Awesome List][awesome-list Icon]](https://github.com/veggiemonk/awesome-docker#readme)",
+  "list_entries": [
+    {
+      "title": "Docker",
+      "url": "https://www.docker.com/",
+      "category": "Developer Tools / Virtualization",
+      "description": "Powerful, performs operating-system-level virtualization. [![Open-Source Software][OSS Icon]](https://github.com/docker) ![Freeware][Freeware Icon] [![Awesome List][awesome-list Icon]](https://github.com/veggiemonk/awesome-docker#readme)"
+    }
+  ],
+  "uid": "01a1a884-206b-7c2b-9122-b17d3ea00fa0",
+  "created": "2026-11-04",
+  "depth": "stub",
+  "status": "unknown",
+  "updated": "2026-11-04",
+  "source_list": "jaywcjlove/awesome-mac",
+  "source_commit": "8fd2be557aa930c06bae239b38d7c48a6f8f40ec",
+  "sources": [
+    {
+      "url": "https://github.com/jaywcjlove/awesome-mac/blob/8fd2be557aa930c06bae239b38d7c48a6f8f40ec/README.md",
+      "retrieved": "2026-11-04"
+    }
+  ]
+}
+---
+
+Powerful, performs operating-system-level virtualization.
+
+- **Resource:** https://www.docker.com/
+- **Source:** [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac/blob/8fd2be557aa930c06bae239b38d7c48a6f8f40ec/README.md)
+
+Generated stub; resource status has not been independently checked.

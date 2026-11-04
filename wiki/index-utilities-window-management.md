@@ -1,0 +1,54 @@
+---
+type: index
+title: "Utilities / Window Management"
+---
+
+# Utilities / Window Management
+
+- [AeroSpace](aerospace.md) — i3-like tiling window manager for macOS.
+- [AltTab](alttab.md) — Open source window switcher with window previews.
+- [Amethyst](amethyst.md) — Tiling window manager.
+- [Assignee](assignee.md) — Simple, instant app switcher.
+- [Convoker](convoker.md) — Type an app name, press Enter, all its windows come to you.
+- [contexts](contexts.md) — App switcher for faster window and app switching across multiple screens.
+- [Dimsum](dimsum.md) — Minimalist menu bar app that dims inactive windows to highlight the focused one.
+- [DockDoor](dockdoor.md) — Free and open source window peeking & alt-tab for macOS.
+- [DockFlip](dockflip.md) — Dock window lists with browser tabs, a Flip 3D ⌘Tab window switcher and Windows-style snapping in one app.
+- [Dockit](dockit.md) — An application that can dock any window to the edge of the screen.
+- [DockLens](docklens.md) — Hover a Dock icon to see live thumbnails of all that app's windows, then switch, close or minimize them.
+- [Dissolv](dissolv.md) — Hide and close inactive apps.
+- [Divvy](divvy.md) — Window management at its finest with its amazing Divvy Grid system.
+- [Flickbar](flickbar.md) — Open-source window manager driven by trackpad gestures on window title bars.
+- [Hummingbird](hummingbird.md) — Easily move and resize windows without mouse clicks, from anywhere within a window.
+- [IntelliDock](intellidock.md) — Hides the Dock, Automatically.
+- [JankyBorders](jankyborders.md) — A lightweight window border system for macOS.
+- [KiwiDesk](kiwidesk.md) — Tiling window manager that works out of the box with no config file, has a native Settings app, and updates itself from inside the app.
+- [Loop](loop.md) — Window management made elegant. [Freeware][Freeware Icon]
+- [LumaRing](lumaring.md) — Radial menu for switching apps, windows, and browser tabs.
+- [MacsyZones](macsyzones.md) — Organize your windows with ease and boost your productivity.
+- [Lasso](lasso.md) — Intuitive and easy to use grid-based window manager.
+- [Magnet](magnet.md) — Window manager that keeps your workspace organized.
+- [MakeItHome](makeithome.md) — Pointer-driven launcher for screen-edge quick actions and app switching.
+- [mFix](mfix.md) — Open-source window manager with keyboard and drag snapping, snap layouts, a Cmd+Tab window switcher with live previews, and Dock window previews.
+- [Moom](moom.md) — Window management tool for moving, resizing, and saving layouts.
+- [Nudge](nudge.md) — Window manager with keyboard shortcuts and drag-to-edge snapping.
+- [Omni](omni.md) — Notorized Niri and Hyprland inspired tiling window manager with animations.
+- [Open Contexts](open-contexts.md) — Open-source window switcher with a persistent app bar and saved window groups.
+- [Plonk](plonk.md) — Menu bar window manager with snap zones, hotkeys, and saved workspaces that relaunch your apps and put every window back on its monitor; an AI agent can…
+- [rcmd](rcmd.md) — Use the ⌘ Right Command key to switch applications based on their name.
+- [Rectangle-app](rectangle-app.md) — Rectangle is a window management app based on Spectacle, written in Swift.
+- [ShiftIt](shiftit.md) — Managing window size and position in OSX.
+- [ShortcutCycle](shortcutcycle.md) — Switch between context-based app groups with a single hotkey.
+- [Show Desktop](show-desktop.md) — Menu bar app that hides every window with one click or a shortcut, then brings them all back exactly as they were.
+- [Sidebar](sidebar.md) — The modern Dock replacement for your Mac.
+- [SizeUp](sizeup.md) — Powerful, keyboard-centric window management.
+- [Slate](slate.md) — Scriptable window manager configured with JavaScript.
+- [Snapback](snapback.md) — Save and restore entire window layouts with one keystroke.
+- [Swift Shift](swift-shift.md) — Move and resize windows with keyboard shortcuts and mouse gestures.
+- [StreamWindow](streamwindow.md) — 3D window manager with intuitive views and fluid transitions.
+- [Switch](switch.md) — Keyboard window switcher that lists every open window across Spaces and filters as you type.
+- [Tiles](tiles.md) — Snap and rearrange windows with screen edges, shortcuts, or the menu bar.
+- [Topit](topit.md) — Pin any window to the top of your screen
+- [Total Spaces](total-spaces.md) — Workspace manager with hotkeys and spatial overview.
+- [Tungsten Edge](tungsten-edge.md) — Per-window taskbar and Dock replacement: every open window gets its own labeled card, while single-window apps stay compact icons.
+- [yabai](yabai.md) — Keyboard-driven tiling window manager.

@@ -1,0 +1,75 @@
+---
+type: index
+title: "AI Tools"
+---
+
+# AI Tools
+
+- [Agent Teams AI](agent-teams-ai.md) — Open-source desktop app for coordinating autonomous AI coding agents through team messaging, task boards, and code review.
+- [Agenttrace](agenttrace.md) — Local-first TUI for inspecting AI coding agent sessions, costs, tokens, latency, tool failures, health, and diffs.
+- [AppleAi](appleai.md) — Access multiple AI assistants from your menu bar with one shortcut.
+- [Apple On-Device OpenAI](apple-on-device-openai.md) — Runs Apple on-device models behind an OpenAI-compatible API.
+- [AQBot](aqbot.md) — Open-source desktop AI workspace for multi-provider chat, agent workflows, knowledge bases, MCP tools, and an OpenAI-compatible API gateway.
+- [Atomic Agent](atomic-agent.md) — Local-first CLI and TUI coding agent that runs open-weight models entirely on your machine, with MCP support and 56 built-in tools.
+- [Atomic Chat](atomic-chat.md) — Open-source AI chat client for local and cloud models with MCP support.
+- [Atticus](atticus.md) — Open-source voice assistant that runs on your Claude plan, learns new tasks after doing them once, and handles dictation, screen help, and background agents.
+- [BitFun](bitfun.md) — Open-source AI agent that gives each task its own interactive workspace with chat linked to live state.
+- [BoltAI](boltai.md) — A beautiful & powerful ChatGPT app for Mac. Stay ahead by integrating AI into your workflow today.
+- [ChatGPT](chatgpt.md) — A conversational AI system that listens, learns, and challenges
+- [Claude](claude.md) — Your AI partner on desktop. Fast, focused, and designed for deep work.
+- [Claude God](claude-god.md) — Monitor Claude usage, costs, and session stats.
+- [Claude Usage](claude-usage.md) — Menu bar app for Claude Code that keeps per-pane context (in the status line) and session/weekly usage always visible — no usage or context command to run.
+- [Claude Usage Monitor](claude-usage-monitor.md) — Track Claude usage with a live counter.
+- [Claudoscope](claudoscope.md) — Tool for browsing and analyzing Claude Code sessions.
+- [ClawdHome](clawdhome.md) — Manage multiple isolated OpenClaw gateway instances from one control panel.
+- [clawpypaste](clawpypaste.md) — Menu bar block picker and session browser for Claude Code.
+- [Cherry Studio](cherry-studio.md) — A desktop client that supports multiple large language model (LLM) providers.
+- [Chatbox](chatbox.md) — User-friendly Desktop Client App for AI Models/LLMs (GPT, Claude, Gemini, Ollama...).
+- [CodexBar](codexbar.md) — Show usage stats for OpenAI Codex and Claude Code, without having to login.
+- [Corral](corral.md) — Native macOS and iPhone client to follow and reply to Claude Code, Codex, OpenCode, and Cursor sessions with split panes.
+- [Cove](cove.md) — Open-source native composer, session sidebar and diff viewer for Claude Code and Codex, currently available as an Apple Silicon preview.
+- [CoWork OS](cowork-os.md) — Open-source desktop AI agent for files, browser, and chat-app tasks that works with your own API keys or local models.
+- [Cursor Voice](cursor-voice.md) — Voice assistant that lives by your cursor, sees your screen, and can control apps via the OpenAI Realtime API.
+- [DataNexa](datanexa.md) — Open-source desktop database MCP gateway that aggregates multiple databases into a single access point with read-only enforcement and auditing for AI agents.
+- [DeepDeck](deepdeck.md) — Desktop AI workspace built on DeepSeek Harness for creating and reusing WebMCP tools for website tasks.
+- [Desktop Control](desktop-control.md) — GPU-accelerated CLI for AI agents to control any macOS app via screen, mouse, and keyboard.
+- [Enconvo](enconvo.md) — AI agent that understands your screen and completes tasks across apps.
+- [Fazm](fazm.md) — Open-source voice-controlled AI agent for apps, files, and workflows.
+- [Flock](flock.md) — Terminal multiplexer for running multiple Claude Code and shell sessions in one workspace.
+- [Fluent](fluent.md) — AI assistant that works across apps with model and context integration.
+- [Frink](frink.md) — Desktop-first, open-source (MIT) application for running parallel agents, and multi-step custom workflows triggered by schedules, webhooks or events from…
+- [Gemini Collector](gemini-collector.md) — Back up Google Gemini conversations, attachments, and AI-generated media locally as JSON.
+- [Godmode Bot](godmode-bot.md) — Open-source AI coworker that turns your Claude subscription into persistent agents that do computer work in their own browser with your logins.
+- [GroAsk](groask.md) — Menu bar launcher that sends selected text to AI assistants and CLI agents.
+- [Grux](grux.md) — Menu bar assistant that reads your active window and reaches local mail, calendar, notes, and files, using your own API key or a local model.
+- [RecurseChat](recursechat.md) — Local-first AI chat app with customizable workflows.
+- [Runtime](runtime.md) — AI taskmate and take control of the web & your office tools
+- [Sesame](sesame.md) — Open-source app that indexes the dashboards, reports, sites, PRs, and files Claude Code and Codex delivered, and reopens them when you type or say a few words.
+- [SpotAsk](spotask.md) — Native macOS menu bar AI assistant for quick questions: ask first, then use your own AI service for an in-app answer or send the question to another AI…
+- [ThinkWatch Lite](thinkwatch-lite.md) — Local gateway for Claude Code, Codex, and other AI coding clients that switches upstreams without client changes, records the cost of each request, and…
+- [TokenMeter](tokenmeter.md) — Track Claude Code usage, rate limits, costs, and activity heatmaps.
+- [TokenTracker](tokentracker.md) — Local-first menu bar app and CLI that tracks token usage and cost across 20+ AI coding tools.
+- [Tura](tura.md) — Tura is a local, open-source coding agent for developers who are tired of vague skill claims, token-saving extensions with no evidence, and agents that…
+- [Usage4Claude](usage4claude.md) — Real-time monitoring of Claude usage quotas across time windows and plans.
+- [Jan](jan.md) — An open-source alternative to ChatGPT that runs entirely offline on your computer.
+- [JoeBro](joebro.md) — Native SwiftUI workspace for chat and document editing with local models via Ollama or any API, plus memory, MCP tools, and deep research.
+- [LingShu](lingshu.md) — Open-source, model-agnostic macOS agent for verified code, documents, slides, and computer actions.
+- [LokalBot](lokalbot.md) — On-device meeting notes, dictation, inline autocomplete, and searchable work memory for macOS.
+- [Loadout](loadout.md) — See and manage what coding assistants load — Claude Code skills, subagents, slash commands, plugins, and MCP servers, with real usage counts.
+- [Lumilo](lumilo.md) — Open-source menu bar app that runs Splash or llama.cpp servers, shows memory and token speed, and downloads models from Hugging Face.
+- [Maestro](maestro-2.md) — Multi-agent AI coding tool with spec-driven workflows.
+- [MiniClaw](miniclaw.md) — Local-first personal AI agent with memory and automation tools.
+- [mu](mu.md) — Open-source coding agent with a CLI and a desktop app, in which a small judge model makes routine calls such as what enters the context and whether a…
+- [Mudroom](mudroom.md) — Open-source app and CLI that runs coding agents like Claude Code and Codex in a Linux micro-VM on a copy-on-write clone of your project, then lets you…
+- [Murmury](murmury.md) — Floating window that answers questions from your own documents during video calls, hidden from screen sharing, with on-device speech recognition.
+- [Octuo](octuo.md) — Personal assistant for work across AI, tools and specialist services that coordinates connected, authorized tools and accounts, tracks progress and gathers…
+- [Off Grid AI Desktop](off-grid-ai-desktop.md) — Private, local-first AI for your Mac: local LLM chat, image generation, voice dictation, and memory search, all on-device.
+- [Orchard](orchard.md) — MCP server that connects AI assistants to Apple apps.
+- [Prevail](prevail.md) — Local-first AI life OS: any model per life-domain over a plain-markdown vault on your Mac. Signed and notarized.
+- [Pulse](pulse.md) — Native app that shows how much Claude Code, Codex, Cursor, Copilot and 70+ other AI coding services you have left, as rings docked at the edge of your screen.
+- [Quail](quail.md) — Local model server for GGUF and MLX models on Apple silicon, with OpenAI- and Anthropic-compatible APIs for tools like Claude Code and Codex.
+- [Witsy](witsy.md) — desktop AI assistant / universal MCP client.
+- [remio](remio.md) — Local-first AI chat client that answers from your knowledge base.
+- [Warden](warden.md) — A Native Swift macOS app that lets you run multiple LLM models using your own API keys.
+- [Wayfinder](wayfinder.md) — Local-first visual voyage map for preserving Codex and Claude Code sessions, branches, failures, decisions, and file changes.
+- [Yardlet](yardlet.md) — Open-source app for running Codex, Claude Code and other coding agent CLIs side by side in one window, using each agent's own sign-in and session history.

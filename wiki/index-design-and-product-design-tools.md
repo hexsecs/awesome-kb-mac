@@ -1,0 +1,53 @@
+---
+type: index
+title: "Design and Product / Design Tools"
+---
+
+# Design and Product / Design Tools
+
+- [Acorn](acorn.md) — Great Mac OS X picture and photo editor, built for humans.
+- [Affinity Designer](affinity-designer.md) — Professional graphic design software for Mac.
+- [Affinity Photo](affinity-photo.md) — Professional image editing software for Mac.
+- [Alchemy](alchemy.md) — Experimental, open-source drawing application with an emphasis on creating conceptual art.
+- [Amadine](amadine.md) — Vector drawing app with an intuitive interface for graphic designers.
+- [Art Text 3](art-text-3.md) — Graphic design software for lettering, typography, and text effects.
+- [Blender](blender.md) — Free and open 3D creation software.
+- [Colorpicker](colorpicker.md) — Colorpicker is a complete open-source colors manipulation tool with picking!
+- [darktable](darktable.md) — darktable is an open source photography workflow application and raw developer.
+- [Droply](droply.md) — Offline batch background remover for images.
+- [Draw.io](draw-io.md) — Drawio is a diagramming and whiteboarding desktop app
+- [Figma](figma.md) — The collaborative interface design tool, for vector graphics and UI prototyping.
+- [FontForge](fontforge.md) — Free, open-source font editor.
+- [GIMP](gimp.md) — The GNU Image Manipulation Program.
+- [inklet](inklet.md) — Turn your Mac trackpad into drawing board.
+- [Inkscape](inkscape.md) — Professional vector graphics editor.
+- [ItsPaint](itspaint.md) — Native paint and screenshot markup: step badges, pixelate, Instant Alpha. No account or telemetry.
+- [Krita](krita.md) — Open-source digital painting software for concept artists, digital painters, and illustrators.
+- [macSVG](macsvg.md) — Designing HTML5 SVG art and animation.
+- [MagicaVoxel](magicavoxel.md) — Free, lightweight 8-bit voxel editor and interactive path tracing renderer.
+- [MakeHuman](makehuman.md) — Powerful and free 3D human modeler.
+- [Monodraw](monodraw.md) — Powerful ASCII art editor designed for the Mac.
+- [Nik Collection](nik-collection.md) — Nik Collection by DxO.
+- [Paintbrush](paintbrush.md) — Bitmap image editor.
+- [Pencil2D](pencil2d.md) — A easy, intuitive tool to make 2D hand-drawn animations.
+- [Pixelmator](pixelmator.md) — Full-featured image editor for Mac.
+- [Pixen](pixen.md) — Native pixel art and animation editor for Mac.
+- [Principle](principle.md) — Application for designing animated and interactive user interfaces.
+- [Pika](pika.md) — An open-source color picker app.
+- [RawTherapee](rawtherapee.md) — A powerful cross-platform raw photo processing program!
+- [Redlamp](redlamp.md) — Native, open-source raw photo editor that keeps Lightroom Classic's Develop workflow.
+- [Screen Loupe](screen-loupe.md) — Open-source live magnifier that shows any part of the screen zoomed, pixel-true, in a separate window.
+- [ScreenToLayers](screentolayers.md) — Easily export your screen into a layered PSD file.
+- [Sketch](sketch.md) — Professional digital design for mac.
+- [Sketch Cache Cleaner](sketch-cache-cleaner.md) — Deletes hidden Sketch history files.
+- [Measure Plugin](measure-plugin.md) — Make it a fun to create spec for developers and teammates.
+- [Sketch Toolbox Plugin Manager](sketch-toolbox-plugin-manager.md) — Simple plugin manager for Sketch.
+- [User Flows Plugin](user-flows-plugin.md) — Generating flow diagrams from Artboards.
+- [SketchBook](sketchbook.md) — Drawing software for concept design, comic art, and digital sketching.
+- [Sparkle](sparkle.md) — Pro visual web design.
+- [System Color Picker](system-color-picker.md) — The macOS color picker as an app with more features.
+- [Tayasui Sketches](tayasui-sketches.md) — Professional drawing software.
+- [Vectornator: Design Software](vectornator-design-software.md) — The Most Intuitive and Precise Illustration Software in the Galaxy.
+- [Vectr](vectr.md) — Free graphics editor used to create vector graphics easily and intuitively.
+- [Nugget](nugget.md) — Video editing software designed for motion effects and versatility.
+- [Lunacy](lunacy.md) — Vector design tool with built-in assets and real-time collaboration.

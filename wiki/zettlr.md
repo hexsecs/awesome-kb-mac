@@ -1,0 +1,38 @@
+---
+{
+  "title": "Zettlr",
+  "summary": "A markdown editor for the 21st century.",
+  "type": "entity",
+  "category": "Reading and Writing Tools / Markdown Tools",
+  "url": "https://www.zettlr.com/",
+  "list_summary": "A markdown editor for the 21st century. [![Open-Source Software][OSS Icon]](https://github.com/Zettlr/Zettlr) ![Freeware][Freeware Icon]",
+  "list_entries": [
+    {
+      "title": "Zettlr",
+      "url": "https://www.zettlr.com/",
+      "category": "Reading and Writing Tools / Markdown Tools",
+      "description": "A markdown editor for the 21st century. [![Open-Source Software][OSS Icon]](https://github.com/Zettlr/Zettlr) ![Freeware][Freeware Icon]"
+    }
+  ],
+  "uid": "01a1a884-203d-7082-b85a-fbe0ed9781fe",
+  "created": "2026-11-04",
+  "depth": "stub",
+  "status": "unknown",
+  "updated": "2026-11-04",
+  "source_list": "jaywcjlove/awesome-mac",
+  "source_commit": "8fd2be557aa930c06bae239b38d7c48a6f8f40ec",
+  "sources": [
+    {
+      "url": "https://github.com/jaywcjlove/awesome-mac/blob/8fd2be557aa930c06bae239b38d7c48a6f8f40ec/README.md",
+      "retrieved": "2026-11-04"
+    }
+  ]
+}
+---
+
+A markdown editor for the 21st century.
+
+- **Resource:** https://www.zettlr.com/
+- **Source:** [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac/blob/8fd2be557aa930c06bae239b38d7c48a6f8f40ec/README.md)
+
+Generated stub; resource status has not been independently checked.

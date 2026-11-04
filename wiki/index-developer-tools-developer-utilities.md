@@ -1,0 +1,94 @@
+---
+type: index
+title: "Developer Tools / Developer Utilities"
+---
+
+# Developer Tools / Developer Utilities
+
+- [AXe](axe.md) — CLI tool for controlling iOS Simulators through Accessibility APIs and HID automation.
+- [BetterRename](betterrename.md) — The most powerful and complete Mac file renaming application on the market.
+- [Beyond Compare](beyond-compare.md) — Compare files and folders with powerful commands.
+- [Bidbar](bidbar.md) — Manage bash commands from the menu bar and run them with keyboard shortcuts.
+- [Breaker](breaker.md) — Watches the launchd jobs, cron jobs, Folder Actions, and SwiftBar plugins you set up yourself and notifies you when one breaks.
+- [Cacher](cacher.md) — Cloud-based code snippet manager with Gist sync and multi-platform support.
+- [CC-Switch](cc-switch.md) — A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, and AI coding agents.
+- [CodeKit](codekit.md) — Web development tool for compiling and auto-refreshing.
+- [CodeMenu](codemenu.md) — Advanced snippets manager with IDE integration, natural language search, and more.
+- [Conduktor](conduktor.md) — Kafka desktop client.
+- [Swifka](swifka.md) — Read-only Kafka monitor for safely inspecting topics, messages, and consumer state.
+- [Configs](configs.md) — Configuration file manager for quickly viewing, editing and managing config files.
+- [CubicBezier](cubicbezier.md) — CubicBezier Generator for macOS.
+- [Cutter](cutter.md) — Powerful multi-platform reverse engineering tool.
+- [DevHub](devhub.md) — Feature-rich offline app for developers.
+- [Dash](dash.md) — Awesome API documentation browser and code snippet manager.
+- [Deeplink Buddy](deeplink-buddy.md) — Deeplink managers, made by developer for developers.
+- [Device Hub Pro](device-hub-pro.md) — Mirror, control and test Android emulators and phones, iOS simulators and iPhones side by side.
+- [DiffMerge](diffmerge.md) — Application to visually compare and merge files.
+- [Eleven](eleven.md) — Open-source reverse-engineering app where coding agents read, rename and patch binaries, Android apps and GPU kernels alongside you.
+- [EnvPane](envpane.md) — OS X preference pane for environment variables.
+- [FinderGo](findergo.md) — Open terminal quickly from Finder.
+- [Tintpad](tintpad.md) — Menu bar launcher that opens your terminal at the right repo with a coding agent (Claude Code, Codex) already running.
+- [FlyEnv](flyenv.md) — Local development environment manager for languages, databases, and services.
+- [Finicky](finicky.md) — Set rules to decide which browser opens each link.
+- [Frpc-Desktop](frpc-desktop.md) — Open-source desktop client for FRP reverse proxy and intranet penetration with a visual interface.
+- [Gas Mask](gas-mask.md) — Simple hosts file manager for Mac OS X.
+- [Gemini](gemini.md) — Intelligent duplicate file finder.
+- [GraphCode](graphcode.md) — Runs coding-agent sessions as a graph, where each node is a live terminal you can attach to mid-run and each edge a hand-off that fires unattended. Claude…
+- [Hex Fiend](hex-fiend.md) — Fast and clever open source hex editor.
+- [Hosts.prefpane](hosts-prefpane.md) — System preference pane to manage your hosts file.
+- [Icon Preview](icon-preview.md) — Preview your app icon and menu bar icon.
+- [iHosts](ihosts.md) — The only /etc/hosts editor on Mac App Store.
+- [Itsyconnect](itsyconnect.md) — App Store Connect client for metadata, TestFlight, reviews, analytics, and localization.
+- [SaneHosts](sanehosts.md) — Hosts-based ad and tracker blocker.
+- [ILLA Cloud](illa-cloud.md) — Low-code internal tool builder.
+- [ImHex](imhex.md) — Hex Editor for reverse engineers and programmers.
+- [Integrity](integrity.md) — Free website link checker for Mac.
+- [JET Pilot](jet-pilot.md) — Open-source Kubernetes desktop client for working across clusters, namespaces and cloud accounts.
+- [JsonStudio](jsonstudio.md) — Local-first JSON workspace for formatting, editing, diffing, converting, validating, and extracting JSON from logs.
+- [Kaleidoscope](kaleidoscope.md) — Compare text, images, and folders.
+- [Koala](koala.md) — GUI application for Less, Sass, Compass and CoffeeScript compilation.
+- [Loca Studio](loca-studio.md) — Analyze, review, and edit app translations.
+- [LINQPad](linqpad.md) — .NET scratchpad for running code, queries, and database exploration.
+- [Loupe](loupe.md) — Accessibility inspector that generates AI-agent-ready output.
+- [MacSystemColors](macsystemcolors.md) — Mac app that shows all system colors in light and dark mode for Cocoa developers.
+- [Medio](medio.md) — A native, lightweight text diff tool with a clean UI and real-time highlighting.
+- [mirroir-mcp](mirroir-mcp.md) — Open-source MCP server and CLI that lets AI agents see, tap, swipe and type on a real iPhone through iPhone Mirroring, without Developer Mode or Xcode.
+- [MJML](mjml.md) — Create responsive emails with a semantic syntax and rich components.
+- [NameQuick](namequick.md) — AI-powered file renaming tool for macOS
+- [PaintCode](paintcode.md) — Vector drawing app that generates Objective-C or Swift code in real time.
+- [Pasteboard Viewer](pasteboard-viewer.md) — Inspect the system pasteboards.
+- [Poirot](poirot.md) — Companion app for browsing Claude Code sessions, reviewing diffs, and rerunning commands.
+- [Muxy](muxy.md) — AI-native GUI for managing AI coding sessions, projects, with split panes, Git integration, and AI usage tracking.
+- [PortKiller](portkiller.md) — Tool for inspecting ports, managing forwards and tunnels, and stopping bound processes.
+- [PPRows](pprows.md) — Application to calculate how many lines of code you write.
+- [ProcessSpy](processspy.md) — A clean and powerful process monitor.
+- [PushMate](pushmate.md) — Solves common push notification problems on macOS.
+- [Responsively](responsively.md) — A must-have devtool for web developers for quicker responsive web development.
+- [Runner](runner.md) — Open-source workspace where CLI coding agents such as Claude Code, Codex, Copilot CLI, and pi work one task together as a crew, each in its own real terminal.
+- [SCM Breeze](scm-breeze.md) — Set of shell scripts (for bash and zsh) that enhance your interaction with git.
+- [SecureCRT](securecrt.md) — Terminal emulation which supports SSH, Telnet or other protocols.
+- [Site Sucker](site-sucker.md) — Automatically downloads websites.
+- [SnippetsLab](snippetslab.md) — Easy-to-use code snippets manager.
+- [Solarized](solarized.md) — Clean and beautiful color theme. Works well with iTerm, JetBrains products, Vim etc.
+- [SpawnSweep](spawnsweep.md) — Menu bar app that shows the dev servers, simulators and build data AI coding agents leave running, and cleans up with a preview first.
+- [SSH Keys Manager](ssh-keys-manager.md) — Native macOS app for managing local SSH keys and Git identities.
+- [Starcat](starcat.md) — Native, local-first GitHub Stars manager that turns saved repositories into a searchable, AI-assisted knowledge base.
+- [StarUML](staruml.md) — Powerful UML app.
+- [Swiftify](swiftify.md) — Objective-C to Swift code converter and Xcode & Finder extensions.
+- [SwiftPlantUML](swiftplantuml.md) — Generate and view class diagrams from Xcode for Swift code.
+- [SwitchHosts](switchhosts.md) — Free and open-source app for hosts management & switching.
+- [Switzy](switzy.md) — Open-source tool for switching Git identities and managing SSH keys.
+- [SYM](sym.md) — GUI Application to symbolicate iOS crash log.
+- [tapflow](tapflow.md) — Self-hosted tool for testing iOS simulators and Android emulators from the browser, on Macs your team already owns.
+- [Testpiler](testpiler.md) — Tool for converting XCTest test suites to Swift Testing.
+- [TeXstudio](texstudio.md) — Integrated writing environment for creating LaTeX documents.
+- [Touch Bar Simulator](touch-bar-simulator.md) — Use the Touch Bar on any Mac.
+- [TunnelFlow](tunnelflow.md) — Modern SSH tunnel and port forwarding manager supporting local, remote, and dynamic SOCKS5 forwards.
+- [Visual Paradigm](visual-paradigm.md) — All-in-one UML, SysML, BPMN modeling platform.
+- [Woodpecker](woodpecker.md) — View iOS app's Sandbox files, UserDefaults, Keychain items on a Mac.
+- [WWDC](wwdc.md) — The Mac OS unofficial WWDC app.
+- [Xcodes](xcodes.md) — Install and switch between multiple versions of Xcode.
+- [XCSnippetsApp](xcsnippetsapp.md) — Explore, view, and edit Swift and iOS code snippets for Xcode.
+- [zeplin](zeplin.md) — Collaboration tool for work between designers and developers.
+- [ZOC Terminal](zoc-terminal.md) — Terminal emulator which supports SSH, telnet, connections and other protocols.
+- [Nib Unlocker](nib-unlocker.md) — .nib to .xib converter

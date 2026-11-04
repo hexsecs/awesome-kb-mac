@@ -1,0 +1,38 @@
+---
+{
+  "title": "JustMD",
+  "summary": "Open-source Markdown editor for local files that hides syntax outside the line being edited.",
+  "type": "entity",
+  "category": "Reading and Writing Tools / Markdown Tools",
+  "url": "https://justmd.nuta.life/",
+  "list_summary": "Open-source Markdown editor for local files that hides syntax outside the line being edited. [![Open-Source Software][OSS Icon]](https://github.com/yuraist/just-md) ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id6779422717)",
+  "list_entries": [
+    {
+      "title": "JustMD",
+      "url": "https://justmd.nuta.life/",
+      "category": "Reading and Writing Tools / Markdown Tools",
+      "description": "Open-source Markdown editor for local files that hides syntax outside the line being edited. [![Open-Source Software][OSS Icon]](https://github.com/yuraist/just-md) ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id6779422717)"
+    }
+  ],
+  "uid": "01a1a884-2039-7428-8728-36a169c0b463",
+  "created": "2026-11-04",
+  "depth": "stub",
+  "status": "unknown",
+  "updated": "2026-11-04",
+  "source_list": "jaywcjlove/awesome-mac",
+  "source_commit": "8fd2be557aa930c06bae239b38d7c48a6f8f40ec",
+  "sources": [
+    {
+      "url": "https://github.com/jaywcjlove/awesome-mac/blob/8fd2be557aa930c06bae239b38d7c48a6f8f40ec/README.md",
+      "retrieved": "2026-11-04"
+    }
+  ]
+}
+---
+
+Open-source Markdown editor for local files that hides syntax outside the line being edited.
+
+- **Resource:** https://justmd.nuta.life/
+- **Source:** [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac/blob/8fd2be557aa930c06bae239b38d7c48a6f8f40ec/README.md)
+
+Generated stub; resource status has not been independently checked.

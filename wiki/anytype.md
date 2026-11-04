@@ -1,0 +1,38 @@
+---
+{
+  "title": "Anytype",
+  "summary": "Local-first note-taking and knowledge management app.",
+  "type": "entity",
+  "category": "Reading and Writing Tools / Note-taking",
+  "url": "https://anytype.io/",
+  "list_summary": "Local-first note-taking and knowledge management app. ![Freeware][Freeware Icon]",
+  "list_entries": [
+    {
+      "title": "Anytype",
+      "url": "https://anytype.io/",
+      "category": "Reading and Writing Tools / Note-taking",
+      "description": "Local-first note-taking and knowledge management app. ![Freeware][Freeware Icon]"
+    }
+  ],
+  "uid": "01a1a884-203e-7e89-97ab-2b4107601a8d",
+  "created": "2026-11-04",
+  "depth": "stub",
+  "status": "unknown",
+  "updated": "2026-11-04",
+  "source_list": "jaywcjlove/awesome-mac",
+  "source_commit": "8fd2be557aa930c06bae239b38d7c48a6f8f40ec",
+  "sources": [
+    {
+      "url": "https://github.com/jaywcjlove/awesome-mac/blob/8fd2be557aa930c06bae239b38d7c48a6f8f40ec/README.md",
+      "retrieved": "2026-11-04"
+    }
+  ]
+}
+---
+
+Local-first note-taking and knowledge management app.
+
+- **Resource:** https://anytype.io/
+- **Source:** [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac/blob/8fd2be557aa930c06bae239b38d7c48a6f8f40ec/README.md)
+
+Generated stub; resource status has not been independently checked.
