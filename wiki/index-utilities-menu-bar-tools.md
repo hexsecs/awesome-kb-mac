@@ -1,0 +1,111 @@
+---
+type: index
+title: "Utilities / Menu Bar Tools"
+---
+
+# Utilities / Menu Bar Tools
+
+- [PowerMeister](macvirtue.md) — Conserve energy and improve Battery-Life on your MacBook.
+- [Agent Island](agent-island.md) — MacBook notch companion for Claude Code and Codex sessions, showing live status and auto-resuming selected long-running tasks.
+- [AI Footprint](ai-footprint.md) — Read-only menu bar app that shows the disk space, background processes, MCP servers and login items AI coding tools leave on your Mac, with a receipt for…
+- [AI Meter](ai-meter.md) — Shows your remaining Claude Code or Codex usage and reset time in the menu bar.
+- [AirPoise](airpoise.md) — Menu bar app that uses AirPods motion sensors for head-posture reminders and configurable head-gesture shortcuts.
+- [Anvil](anvil.md) — Tool for serving local static sites and Rack apps with simple URLs.
+- [Atoll](atoll.md) — Turns the notch into a Dynamic Island-style hub for media controls, live activities, and quick utilities.
+- [Bartender](bartender.md) — Organize or hide menu bar icons on your Mac.
+- [Belay](belay.md) — Keeps your Mac awake only while a local AI coding agent is working, and lets it sleep the moment the work stops.
+- [Candela](candela.md) — Display care for external monitors: OLED burn-in protection, panel health history, and everyday brightness, volume, and contrast controls.
+- [cctop](cctop.md) — Open-source menu bar monitor that shows live status for AI coding sessions (Claude Code, Codex, opencode, pi) and jumps to the right terminal pane or editor…
+- [Çentik](entik.md) — Turns the MacBook notch into a live island for music, system stats, an AI chat with your own Claude, Gemini or Ollama, clipboard history and meeting alerts.
+- [ChargeMonitor](chargemonitor.md) — Menu bar battery monitor with real-time charging stats and energy impact insights.
+- [CodexIsland](codexisland.md) — Turns the MacBook notch into a Dynamic Island-style live activity for Claude Code and Codex CLI rate limits and spend, computed locally with no telemetry.
+- [HandySwitch](handyswitch.md) — Lightweight menu bar toggles for dark mode, prevent sleep, and scroll direction.
+- [Konverter](konverter.md) — Menu bar file converter and image compressor operated by dragging files onto a radial wheel.
+- [Kumquat](kumquat.md) — Menu bar file converter: drag files, tap Shift and drop them on a wheel to convert images, audio, video and documents, compress, OCR, trim and annotate.
+- [MacResourceMonitor](macresourcemonitor.md) — Menu bar CPU monitor to see which process is eating CPU and terminate it directly.
+- [Perch](perch.md) — Keyboard-first MacBook notch app for Claude Code, Codex, OpenCode and pi sessions: see what each did, answer from the notch, and jump back to the exact…
+- [SaneBar](sanebar.md) — Privacy-first menu bar manager with hidden zones and automation rules.
+- [Sharptooth](sharptooth.md) — Menu bar tool for managing Bluetooth devices with hotkeys and automation.
+- [BeardedSpice](beardedspice.md) — Control web players and supported apps with your keyboard media keys.
+- [Blink](blink.md) — A little robot that watches your running dev servers and iOS simulators, and restarts them without going back to the terminal.
+- [Boring Notch](boring-notch.md) — Turn your MacBook notch into a music and file control center.
+- [Bye AppQuit](bye-appquit.md) — A minimal menu bar app to quickly view and kill running processes.
+- [DayBar](daybar.md) — An application that can display the local date and reminder events in the menu bar.
+- [Dato](dato.md) — A better menu bar clock with calendar, events, and time zones.
+- [Dimble](dimble.md) — Menu bar manager built for macOS 27's rebuilt menu bar. Hides the icons you don't need until you do.
+- [Dozer](dozer.md) — Hide MacOS menubar items.
+- [Dynamic Menu Bar](dynamic-menu-bar.md) — Changes the color and shape of the macOS menu bar with live screen-matched colors, gradients, a music visualizer and per-app profiles.
+- [DynamicHorizon](dynamichorizon.md) — Adds media controls, notifications, and system indicators to the notch area.
+- [Repose](repose.md) — Menu bar break timer that dims your screen and pauses during calls.
+- [Fishing Funds](fishing-funds.md) — Display real-time trends of Chinese funds in the menubar.
+- [GoogleDriveSync](googledrivesync.md) — A menu bar app for seamless Google Drive syncing.
+- [Folder Peek](folder-peek.md) — Quickly access documents, files, folders, and apps from the menu bar.
+- [HeyMate](heymate.md) — AI assistant in the MacBook notch that answers questions about your screen out loud and runs Claude Code, Codex, or OpenCode agents after you approve their…
+- [Hidden](hidden.md) — A ultra-light MacOS utility that helps hide menu bar icons.
+- [HideNotch](hidenotch.md) — Paints the menu bar black on notched MacBooks so the notch blends in, with optional rounded screen corners.
+- [Hue in the Menu](hue-in-the-menu.md) — Philips Hue light management in the menu bar with multi-room support.
+- [Ice](ice.md) — Menu bar manager for hiding icons and organizing layouts.
+- [ILoveNotch](ilovenotch.md) — Turns the MacBook notch into a tray for media, files, calendar, reminders, notes, and timers.
+- [Itsycal](itsycal.md) — Tiny calendar for your Mac's menu bar.
+- [Itsyhome](itsyhome.md) — Control your HomeKit and Home Assistant smart home from the menu bar.
+- [Itsytv](itsytv.md) — Control your Apple TV from the menu bar.
+- [Keelhaven](keelhaven.md) — Menu bar app that runs scheduled, encrypted restic backups to a local disk, S3, SFTP, or a REST server.
+- [KeyStats](keystats.md) — Menu bar tracker for daily keystrokes, clicks, movement, and scrolling.
+- [Later](later.md) — Save all your Mac apps for later with one click.
+- [Ledge](ledge.md) — Turns the MacBook notch into a Dynamic Island-style status area for now playing, timers, your next meeting, weather, notes, and Keep Awake (macOS 26+).
+- [Lunavect](lunavect.md) — Menu bar app and desktop widgets showing which Claude Code or Codex session is working, waiting for input, or done, with usage limits and activity.
+- [LuxShot](luxshot.md) — Native and privacy-first menu bar OCR tool.
+- [MacTools](mactools.md) — Open-source menu bar toolkit with plugins for display controls, system toggles, cleanup, device status, and everyday utilities.
+- [Mask This](mask-this.md) — Menu bar app that masks sensitive information in the clipboard.
+- [MeetingBar](meetingbar.md) — Menu bar app for your calendar meetings
+- [MemStats](memstats.md) — Menu bar memory monitor that splits RAM usage by user account, groups helper processes into apps, and shows memory pressure and swap.
+- [Menu Bar Calendar](menu-bar-calendar.md) — A monthly calendar right in your menu bar.
+- [MenubarCC](menubarcc.md) — Menu bar crab that shows your Claude Code sessions at a glance: walking while Claude works, bouncing when it needs you.
+- [MenuBarMijia](menubarmijia.md) — Control Xiaomi Mi Home devices from the menu bar by voice or keyboard, via Mi Cloud QR login or Home Assistant (macOS 14+).
+- [MenubarX](menubarx.md) — A powerful Mac menu bar browser, pin webpage like an App.
+- [MenuScores](menuscores.md) — A menu bar app that delivers real-time sports news and scores.
+- [Mixio](mixio.md) — Menu bar app with per-app & tab volume control, 10-band EQ with native style UI.
+- [Mole Widget](mole-widget.md) — Lightweight system monitor with live CPU, memory, disk, network, battery, and process stats in a resizable desktop widget managed from the menu bar.
+- [FreeAudio](freeaudio.md) — Per-app volume and mute, output device switching, and volume control for HDMI/DisplayPort monitors.
+- [FreeDisplay](freedisplay.md) — Control external display brightness, HiDPI modes, resolution, and arrangement from the menu bar.
+- [MonitorControl](monitorcontrol.md) — Control external display brightness and volume directly.
+- [muxbar](muxbar.md) — Menu bar app for tmux session management — list, attach, kill sessions, live preview, and a closed-lid mode for in-bag work.
+- [mysa](mysa.md) — A macOS menu bar app for quick breathing breaks, with a frosted screen overlay and handwritten quotes.
+- [NetFluss](netfluss.md) — Native menu bar app for real-time upload/download speeds and top bandwidth-using apps.
+- [Netty](netty.md) — Open-source menu bar dot that shows whether the internet really answers, with latency, jitter, packet loss and speed tests.
+- [Notchly](notchly.md) — Lightweight Dynamic Island for macOS with AI coding agent notifications.
+- [One Thing](one-thing.md) — Put a single task or goal in your menu bar.
+- [One Switch](one-switch.md) — Mac menu bar app that adds various switches to the Mac's menu bar.
+- [OnlySwitch](onlyswitch.md) — ⚙️ All-in-One menu bar app, hide 💻MacBook Pro's notch, dark mode, AirPods, Shortcuts
+- [Pandan](pandan.md) — Time awareness in your menu bar.
+- [Peninsula](peninsula.md) — Dynamic Peninsula for macOS, focusing on window switching, notifications, and file storage.
+- [Profisor](profisor.md) — Switch Xcode provisioning profiles for the current project from the menu bar.
+- [Pulse](pulse-3.md) — Menu bar system monitor with live CPU, memory, temperature, fan, network, disk, power, and battery stats.
+- [Quickgif](quickgif.md) — Quickly Find and Share GIFs.
+- [Reminders MenuBar](reminders-menubar.md) — Simple macOS menu bar app to view and interact with reminders.
+- [RewriteBar](rewritebar.md) — A macOS menu bar app that helps you write your text with the assistance of AI.
+- [Second Clock](second-clock.md) — Show a second clock for a different time zone in your menu bar.
+- [Stash](stash.md) — Open-source menu bar icon hider for macOS 27 that collapses status items behind a single arrow.
+- [Thaw](thaw.md) — A powerful menu bar management tool for hiding and showing menu bar items.
+- [SketchyBar](sketchybar.md) — A highly customizable macOS status bar replacement.
+- [Spaced](spaced.md) — Organize your menu bar items into groups.
+- [StableBar](stablebar.md) — Customizable menu bar replacement with themes, widgets, popups and AeroSpace, yabai or OmniWM workspaces.
+- [Streaker](streaker.md) — GitHub contribution streak tracking menubar app.
+- [Swamp Converter](swamp-converter.md) — Menu bar file converter: drag a file, tap a key and drop it on a wheel to convert video, audio, images and PDFs.
+- [SwiftBar](swiftbar.md) — Powerful macOS menu bar customization tool.
+- [Tactile](tactile.md) — Adds subtle trackpad haptic taps over clickable elements, with optional visual cues for accessibility.
+- [Tarn](tarn.md) — A calm menu bar app for focused work rounds and slow breathing, with optional ambient sounds.
+- [TextSniper](textsniper.md) — Simple yet powerful OCR app in your Menu Bar. Instantly copy and paste text from anywhere.
+- [Today](today.md) — View today’s schedule and calendar events from the menu bar.
+- [Topnotchers](topnotchers.md) — Turns the MacBook notch into a home for Claude Code and Codex sessions as animated mascots, with questions and permission prompts answered from the notch.
+- [TomatoBar](tomatobar.md) — World's neatest Pomodoro timer for macOS menu bar.
+- [TypeCue](typecue.md) — Types a prepared script into any app, one hotkey press per line, as real keystrokes at a human pace, for demo recordings and live presentations.
+- [UTC Time](utc-time.md) — Show the time in UTC in the menu bar or a widget.
+- [Vanilla](vanilla.md) — Hide menu bar icons on your Mac.
+- [Vorssaint](vorssaint.md) — Open-source menu bar toolkit for per-app volume, system monitoring, window control, clipboard history, keeping awake, and app cleanup.
+- [Vortex](vortex.md) — MacBook notch app with a focus timer, clipboard history, a file shelf that catches new builds, screen-to-task capture with OCR, and keys Claude Code can use…
+- [WandelBar](wandelbar.md) — Customizes the menu bar background with blur, tint, shadows, textures, presets, and per-Space settings.
+- [Week Number](week-number.md) — The current week number in your menu bar.
+- [Work Hours](work-hours.md) — Simple app that tracks your work hours from the menu bar.
+- [Xbar](xbar.md) — Put the output from any script or program into your macOS Menu Bar (the BitBar reboot).
+- [FunKey](funkey.md) — Keyboard sound tool that adds mechanical-style typing audio.

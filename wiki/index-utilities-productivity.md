@@ -1,0 +1,90 @@
+---
+type: index
+title: "Utilities / Productivity"
+---
+
+# Utilities / Productivity
+
+- [1440 Minutes Left Today](1440-minutes-left-today.md) — Show how many minutes are left in the day from your menu bar.
+- [ActivityWatch](activitywatch.md) — Cross-platform, extensible, and privacy-focused time-tracker.
+- [Alfred](alfred.md) — Launcher and automation tool with hotkeys, snippets, and search.
+- [Atomic](atomic.md) — A habit tracker app to build good habits, break bad ones, and stay on top of your daily routines.
+- [Better Launchpad](better-launchpad.md) — Customizable app launcher with fast search.
+- [BetterMouse](bettermouse.md) — Customize scrolling, acceleration, buttons, and gestures for third-party mice.
+- [BetterTouchTool](bettertouchtool.md) — Customize gestures, shortcuts, and input actions across trackpads, mice, and keyboards.
+- [Brink](brink.md) — A notch on your screen edge that keeps your Notion pages and tasks one hover away.
+- [CalmMouse](calmmouse.md) — Stop the Magic Mouse scrolling the page every time you click.
+- [Cerebro](cerebro.md) — Open-source productivity booster with a brain.
+- [Choosy](choosy.md) — UI, URL API and a browser extension set for managing rules where and how to open links.
+- [CurrentKey](currentkey.md) — Add custom names and icons to Spaces and track app usage time.
+- [CursorSense](cursorsense.md) — Mouse & trackpad driver that lets you tweak the acceleration curve and more.
+- [Day Progress](day-progress.md) — Time remaining today in your menu bar.
+- [Dropzone](dropzone.md) — Create a popup grid of customizable actions. Scriptable in Ruby & Python.
+- [escrcpy](escrcpy.md) — 📱 Graphical Scrcpy to display and control Android devices, powered by Electron.
+- [Ferrocast](ferrocast.md) — Fast keyboard launcher written in Rust, with clipboard history, snippets, window management and 275 local file conversions.
+- [Focalboard](focalboard.md) — Open source, self-hosted alternative to Trello, Notion, and Asana.
+- [Focus Firewall](focus-firewall.md) — A minimalist focus app to block social media and other distractions during work.
+- [FnKeyboard](fnkeyboard.md) — Quick access to function keys from the menu bar.
+- [Freeter](freeter.md) — Organize apps, links, and files by project in one workspace.
+- [Hammerspoon](hammerspoon.md) — Tool for powerful OSX automation with the Lua scripting engine.
+- [HapticKey](haptickey.md) — Add haptic feedback when using the Touch Bar.
+- [HazeOver](hazeover.md) — App that dims your background app windows so you can focus more on your main task!
+- [Hook for Mac](hook-for-mac.md) — Link related files, emails, and notes for quick navigation.
+- [Hungrymark](hungrymark.md) — Bookmark files, folders, and links for quick menu bar access.
+- [Hyperkey](hyperkey.md) — Turn Caps Lock or another modifier into a Hyper key.
+- [iCMD](icmd.md) — Global fuzzy menu search with Vim-style navigation.
+- [JUMP](jump.md) — Open-source tool that labels every clickable element so you can click, scroll and search any app from the keyboard.
+- [Karabiner-Elements](karabiner-elements.md) — Remap keys and customize keyboard behavior on macOS.
+- [Keyboard Cowboy](keyboard-cowboy.md) — The missing keyboard shortcut utility for macOS.
+- [Keyboard Maestro](keyboard-maestro.md) — Automate repetitive tasks with triggers and macros.
+- [Keytty](keytty.md) — App to keep your hands on the keyboard. Move, click, scroll, drag and more with a few strokes.
+- [Launchy](launchy.md) — An app launcher and switcher that utilizes a radial menu.
+- [Lazy](lazy.md) — Keyboard-driven commands to manage your surroundings directly from your mac.
+- [Linear Mouse](linear-mouse.md) — Full control of mouse. Change the speed, scrolling direction, pointer type and much more.
+- [Macaify](macaify.md) — Fast use of ChatGPT, lightweight, clean, keyboard-first.
+- [Mac Mouse Fix](mac-mouse-fix.md) — A simple way to make your mouse better.
+- [Memo Widget](memo-widget.md) — Sticky notes on your desktop.
+- [Metrune](metrune.md) — Local-first focus workspace that brings tasks, AI coding, GitHub activity, device events, badges, and reports into the MacBook notch.
+- [MindMac](mindmac.md) — AI chat client for multiple providers in one place.
+- [Mos](mos.md) — Simple tool can offer the smooth scrolling and reverse the mouse scrolling direction on your Mac.
+- [MacPacker](macpacker.md) — Archive manager that supports previewing and extracting archive files
+- [Magic Switch](magic-switch.md) — Switch Magic Keyboard, Mouse, and Trackpad between multiple Macs.
+- [nnScreenshots](nnscreenshots.md) — Capture periodic screenshots to review your day and fill timesheets.
+- [OmniPlan](omniplan.md) — The best way to visualize, maintain, and simplify your projects. Project Management made easy.
+- [OpenClip](openclip.md) — Lightweight floating action bar for macOS that turns selected text into instant actions.
+- [OpenIn](openin.md) — Take control of installed apps on your Mac
+- [OpenNaga](opennaga.md) — Open-source Razer Synapse alternative for the Naga V2 HyperSpeed that remaps the side buttons and sets DPI and polling rate.
+- [PaletteBrain](palettebrain.md) — Access the power of ChatGPT across all your Mac applications with the press of a shortcut.
+- [Pie Menu](pie-menu.md) — Control your tools with a radial menu customized for your active app.
+- [Perplexity](perplexity.md) — Search and discovery with AI.
+- [Pomodoro Cycle](pomodoro-cycle.md) — Pomodoro tracker
+- [ProBoard](proboard.md) — Use one board to manage all your project information efficiently.
+- [Qbserve](qbserve.md) — Automatic time tracking with projects, timesheets, and productivity insights.
+- [QDuo](qduo.md) — Popup at the cursor that runs your own actions on selected text in any app: AI prompts, search, text transforms, Shortcuts, and shell scripts.
+- [Raycast](raycast.md) — Launcher and command palette with extensions, snippets, notes, and AI.
+- [Rebind](rebind.md) — Open-source tool for remapping keys, mouse buttons and trackpad gestures to shortcuts and system actions.
+- [SuperCmd](supercmd.md) — Open-source launcher with Raycast-compatible extensions, voice workflows, text-to-speech, memory, and AI actions.
+- [Rustcast](rustcast.md) — Workflow launcher for modes, quick app access, file search, clipboard history, and more.
+- [RescueTime](rescuetime.md) — Track time usage and get productivity reports.
+- [SuperCorners](supercorners.md) — Turn Hot Corners into custom workflow triggers.
+- [Rize](rize.md) — AI time tracker that helps you focus and build better work habits.
+- [RightMenu Master](rightmenu-master.md) — Add more useful actions to the Finder right-click menu.
+- [Selectric](selectric.md) — Private search across email, documents, and chat apps.
+- [SensibleSideButtons](sensiblesidebuttons.md) — Make mouse side buttons work for back and forward in more apps.
+- [skhd](skhd.md) — Simple hotkey daemon for macOS.
+- [Strategr](strategr.md) — Time-boxing planner for structuring your day.
+- [StrokeMouse](strokemouse.md) — Custom mouse gestures that can trigger keyboard shortcuts, open apps, perform window actions, run shell commands, or execute AppleScript after drawing a stroke.
+- [SwiftBiu](swiftbiu.md) — Text productivity tool with a customizable action bar and AI extensions.
+- [Table Habit](table-habit.md) — Habit tracker with growth charts and offline-first sync.
+- [Time Out](time-out.md) — Easy break reminders, with micro-break and flexible customization if you want it.
+- [TimeScribe](timescribe.md) — Simple and free working time recording.
+- [Timing](timing.md) — Automatic time tracking with productivity insights and billing-friendly records.
+- [Textream](textream.md) — Free teleprompter with real-time word tracking and voice-activated scrolling.
+- [Trace](trace.md) — Open-source spotlight alternative and shortcut toolkit.
+- [Trello](trello.md) — A collaboration tool that organizes your projects into Kanban boards.
+- [Ukelele](ukelele.md) — Unicode Keyboard Layout Editor.
+- [UMST](umst.md) — Desktop calendar widget that brings together Google, iCloud, Outlook, Apple Reminders, Canvas and other LMS deadlines, Todoist, Asana and Trello, with menu…
+- [Velja](velja.md) — Browser picker that lets you open links in a specific browser or a desktop app.
+- [Wox](wox.md) — Open-source cross-platform launcher with fast local search and plugin extensibility.
+- [xScope](xscope.md) — Toolset for measuring, inspecting, and testing on-screen layouts and graphics.
+- [Z](z.md) — Jump to frequently used directories by typing part of the path.

@@ -1,0 +1,38 @@
+---
+{
+  "title": "ScreenKite",
+  "summary": "Native screen recorder and editor with auto-zoom, AI enhancements, device mockups, and teleprompter.",
+  "type": "entity",
+  "category": "Design and Product / Screen Recording",
+  "url": "https://www.screenkite.com/",
+  "list_summary": "Native screen recorder and editor with auto-zoom, AI enhancements, device mockups, and teleprompter. ![Freeware][Freeware Icon]",
+  "list_entries": [
+    {
+      "title": "ScreenKite",
+      "url": "https://www.screenkite.com/",
+      "category": "Design and Product / Screen Recording",
+      "description": "Native screen recorder and editor with auto-zoom, AI enhancements, device mockups, and teleprompter. ![Freeware][Freeware Icon]"
+    }
+  ],
+  "uid": "01a1a884-2088-71b9-8d88-e508e55b803f",
+  "created": "2026-11-04",
+  "depth": "stub",
+  "status": "unknown",
+  "updated": "2026-11-04",
+  "source_list": "jaywcjlove/awesome-mac",
+  "source_commit": "8fd2be557aa930c06bae239b38d7c48a6f8f40ec",
+  "sources": [
+    {
+      "url": "https://github.com/jaywcjlove/awesome-mac/blob/8fd2be557aa930c06bae239b38d7c48a6f8f40ec/README.md",
+      "retrieved": "2026-11-04"
+    }
+  ]
+}
+---
+
+Native screen recorder and editor with auto-zoom, AI enhancements, device mockups, and teleprompter.
+
+- **Resource:** https://www.screenkite.com/
+- **Source:** [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac/blob/8fd2be557aa930c06bae239b38d7c48a6f8f40ec/README.md)
+
+Generated stub; resource status has not been independently checked.

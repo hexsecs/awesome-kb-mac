@@ -1,0 +1,62 @@
+---
+type: index
+title: "Utilities / System Related Tools"
+---
+
+# Utilities / System Related Tools
+
+- [Adrafinil](adrafinil.md) — Keep your Mac awake only while AI agents are still working, then let it sleep normally.
+- [AlDente](aldente.md) — Battery charge limiter for MacBooks.
+- [Aman Check](aman-check.md) — Dated, honest condition report for a used Mac: locks, battery, SSD and guided hardware tests.
+- [Amphetamine](amphetamine.md) — Keep your Mac awake.
+- [AdBlock One](adblock-one.md) — Free ad blocker for Safari.
+- [Apple Silicon App Test](apple-silicon-app-test.md) — Check Apple Silicon app compatibility.
+- [AirBattery](airbattery.md) — View all device batteries in the Dock, menu bar, or widgets.
+- [AirStats](airstats.md) — Lightweight menu bar system monitor for CPU, GPU, memory, network, disk, battery, and temperature, with a desktop widget.
+- [Background Music](background-music.md) — Control app volumes and record system audio.
+- [Battery Hog](battery-hog.md) — Shows what is draining the battery: live watts, per-app energy, charge history, and drain insights. 100% local.
+- [coconutBattery](coconutbattery.md) — Mac battery information and statistics.
+- [Dayflow](dayflow.md) — Screen activity timeline with AI support.
+- [DockAnchor](dockanchor.md) — Lock the macOS Dock to a single screen in a multi-monitor setup.
+- [everythingByMdfind](everythingbymdfind.md) — Fast file search using Spotlight.
+- [ExtendFS](extendfs.md) — Read-only access to Linux ext2/3/4 in macOS Sequoia and later without a kernel extension.
+- [FanPilot](fanpilot.md) — Fan control and temperature monitor for Apple Silicon Macs: menu bar temps, manual, max, Auto Boost rules or custom curves, with a fail-safe helper and a CLI.
+- [ftop](ftop.md) — Floating system monitor for Apple Silicon that adapts its layout to any window size, showing per-core usage and frequency, GPU, memory pressure, and network.
+- [gfxCardStatus](gfxcardstatus.md) — Monitor graphics card usage and battery impact.
+- [GrandPerspective](grandperspective.md) — Visualize disk usage with tree maps.
+- [Gray](gray.md) — Per-app light/dark mode switcher.
+- [HandShaker](handshaker.md) — Manage Android phone content on Mac.
+- [Healthy Battery](healthy-battery.md) — Open-source charge limiter with live power flow and long-term battery health for Apple Silicon MacBooks.
+- [IconCraft](iconcraft.md) — Give any Mac app the name and icon you already know. The app underneath does not change.
+- [iStat Menus](istat-menus.md) — Advanced system monitor for menubar.
+- [iStats](istats.md) — Command-line system information tool.
+- [Juice](juice.md) — Enhanced battery information display.
+- [KeepingYouAwake](keepingyouawake.md) — Caffeine alternative with dark mode support.
+- [Mac Monitor](mac-monitor.md) — Lightweight menu bar monitor for RAM, CPU, network and disk, focused on memory pressure.
+- [MacFanPro](macfanpro.md) — Fan control for Apple Silicon Macs with a menu bar app, temperature-based profiles and a CLI.
+- [macUSB](macusb.md) — A bootable macOS / OS X installer creator for Apple Silicon Macs.
+- [MagicQuit](magicquit.md) — Automatically quit inactive apps to reduce clutter and free resources.
+- [Matcha](matcha.md) — Keep your Mac awake with a visual timer, a floating badge, and detection of AI coding agents.
+- [MiddleDrag](middledrag.md) — Three-finger trackpad gestures for middle-click and middle-drag on macOS.
+- [Monny](monny.md) — Open-source menu bar system monitor with process lookup and a battery charge limit.
+- [Mounty](mounty.md) — Tiny tool to re-mount write-protected NTFS volumes under Mac OS X 10.9+ in read-write mode.
+- [NitroShare](nitroshare.md) — Cross-platform network file transfer utility.
+- [NTFSTool](ntfstool.md) — Free, open-source NTFS read and write for Mac, with no kernel extension.
+- [OnyX](onyx.md) — System maintenance utility for cleanup, verification, and hidden settings.
+- [Paragon NTFS](paragon-ntfs.md) — Read/write access to NTFS in macOS Sierra.
+- [stats](stats.md) — free Mac system monitor for the menubar.
+- [Sensei](sensei.md) — Performance toolkit for monitoring, cleanup, and hardware diagnostics.
+- [SiliconScope](siliconscope.md) — Sudoless Apple Silicon system monitor (menu bar + dashboard) with first-class ANE, Media Engine and memory-bandwidth tracking plus an E/P-core breakdown —…
+- [Sleepless](sleepless.md) — Keeps your laptop awake with lid-closed support, auto-off timer, and battery-floor cutoff.
+- [Sleepr](sleepr.md) — Sleepr brings back sleep timer on macOS.
+- [Sloth](sloth.md) — Shows all open files, directories, sockets, pipes and devices in use by all running processes.
+- [SteerMouse](steermouse.md) — Customize mouse buttons, wheel behavior, and cursor speed.
+- [SwiftQuit](swiftquit.md) — Enables automatic quitting of macOS apps when closing their windows.
+- [SwiftMTP](swiftmtp.md) — Open-source MTP device manager for browsing and transferring files between Mac and Android devices.
+- [Core Tunnel](core-tunnel.md) — Application for managing SSH connections.
+- [TG Pro](tg-pro.md) — Temperature monitoring, fan control & hardware diagnostics to help keep your Mac cool and healthy.
+- [Time Machine Inspector](time-machine-inspector.md) — Find out what's hogging up your Time Machine backups.
+- [TimeMachineEjector](timemachineejector.md) — Menu bar app that ejects your Time Machine backup disk when a backup finishes and mounts it again when a scheduled backup is due.
+- [Tuxera NTFS](tuxera-ntfs.md) — Full read-write compatibility with NTFS-formatted drives on a Mac.
+- [WattMate](wattmate.md) — See which apps and AI coding agents are draining your MacBook battery, right from the menu bar, in real watts and the minutes you get back by quitting one.
+- [Overkill](overkill.md) — Stop iTunes from opening when you connect your iPhone.
